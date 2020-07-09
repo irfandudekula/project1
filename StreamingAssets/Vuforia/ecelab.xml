@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="psk_target" size="1.766000 1.255987" />
+    <ImageTarget name="pcm_target" size="0.920000 0.651445" />
+    <ImageTarget name="pwm_target" size="0.232000 0.227498" />
+    <ImageTarget name="pam_target" size="0.362000 0.260725" />
+    <ImageTarget name="FM_target" size="0.674000 0.425949" />
+    <ImageTarget name="am_target" size="0.617000 0.322661" />
+  </Tracking>
+</QCARConfig>
